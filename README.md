@@ -1,5 +1,5 @@
 ## clone the directory:
-git clone https://github.com/Purplegh/HW01 HW_011
+git clone https://github.com/Purplegh/HW01 
 
 ## Installation
 
